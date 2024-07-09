@@ -6,3 +6,5 @@
 3) newdocumenttest
 4) assign1
 5) assign2
+6) assign3
+7) assign4
